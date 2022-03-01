@@ -1,0 +1,209 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "backstage",
+		"player1": "bf-better",
+		"player2": "dave1st",
+		"player3": null,
+		"events": [
+			[
+				63000,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				63075,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				63150,
+				[
+					[
+						"Change Character",
+						"dad",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				63225,
+				[
+					[
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					]
+				]
+			],
+			[
+				65850,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				65925,
+				[
+					[
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dave1st"
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				86100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dave2nd"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dave3rd"
+					]
+				]
+			],
+			[
+				124575,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				124650,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				124725,
+				[
+					[
+						"Change Character",
+						"dad",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					]
+				]
+			],
+			[
+				143850,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				143925,
+				[
+					[
+						"Play Animation",
+						"daveglitch",
+						"davered"
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dave3rd"
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "no-polygons"
+	}
+}
